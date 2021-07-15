@@ -11,17 +11,32 @@ Things new developers need to know.
 ### GitHub
 
 
+### Jira
+
+
+### Confluence
+
+
 ---
-## Infrastructure
+## Operating System
+
+### Linux (Ubuntu)
+
+
+---
+## Language
+
+### Python
+
+
+---
+## Infrastructure & IaC
 
 ### VirtualBox
 
 
 ### Docker
 
-
----
-## DevOps & IaC
 
 ### Vagrant
 
@@ -30,3 +45,31 @@ Things new developers need to know.
 
 
 ### Kubernetes
+
+
+
+---
+## DevOps
+
+### Jenkins
+
+
+### GitHub Action
+
+
+### Artifactory
+
+
+---
+## Network & Security
+
+### Web (HTTP/S)
+
+
+### TLS (SSH)
+
+
+### Certification (인증서)
+
+
+### VPN
